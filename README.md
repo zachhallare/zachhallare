@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey there, I'm Zach👋
 
-<!--
-**zachhallare/zachhallare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student at DLSU
 
-Here are some ideas to get you started:
+I build real-time social platforms, messaging apps, and audio/video chat systems. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If I have an idea, I build it and ship it.
+
+Currently building: OmSync, a real-time video calling and social app (MERN stack).
+
+Tech stack: Python, Javascript, Java, MERN, Kali Linux.
+
+Hobbies: Gym, Reading Books, Building Stuff. 
+
+Connect with me: zachhallare@gmail.com | linkedin.com/in/zach-benedict-hallare
